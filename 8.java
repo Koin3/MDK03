@@ -1,4 +1,4 @@
-public class TypeConversion {
+class TypeConversion {
   public static void main(String[] args) {
     // Задание 1
     System.out.println("Задание 1");
